@@ -1,13 +1,13 @@
 [
 {
-  "modid": "${mod_id}",
-  "name": "${mod_name}",
-  "description": "${mod_description}",
+  "modid": "fullbrighttoggle",
+  "name": "Fullbright Toggle",
+  "description": "Fullbright Toggle",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ${mod_author},
+  "authorList": ["Rocketraccon2004"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
